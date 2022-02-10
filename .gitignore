@@ -128,7 +128,8 @@ vendor/
 !composer.lock
 
 #Google
-charlemi-app-451eaef7a3d2.jsons
+charlemi-app-451eaef7a3d2.json
+google-services.json
 
 # Logs
 logs
