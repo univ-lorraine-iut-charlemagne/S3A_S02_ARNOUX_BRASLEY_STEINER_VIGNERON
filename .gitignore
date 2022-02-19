@@ -128,7 +128,7 @@ vendor/
 !composer.lock
 
 #Google
-charlemi-app-451eaef7a3d2.json
+charlemi-app-*.json
 google-services.json
 
 # Logs
@@ -261,3 +261,5 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+tmp_db/
